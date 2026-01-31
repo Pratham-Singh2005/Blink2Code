@@ -1,0 +1,12 @@
+Morse: . → Text: E
+Morse: - → Text: T
+Morse: .. → Text: I
+Morse: - → Text: T
+Morse: . → Text: E
+Morse: . → Text: E
+Morse: -. → Text: N
+Morse: -. → Text: N
+Morse: .. → Text: I
+Morse: - → Text: T
+Morse: - → Text: T
+Morse: -- → Text: M
